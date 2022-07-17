@@ -19,7 +19,8 @@ Overall, it is not necessary to utilize logic programming for the implementation
 # Challenges
 
 Although logic programming made developing our project easier, we still faced a considerable number of challenges. First and foremost, the large datasets made our coding very cumbersome. In certain situations we had to create hundreds of options for a single HTML dropdown and implement logic for each of those dropdown options. In general, the smallest of typos could sometimes cause the functionality of the worksheet to fail. We also had moderate difficulty allowing for multiple-select to satisfy electives as shown below: <br>
-
+<br>
+<img width="600" alt="challenges" src="https://user-images.githubusercontent.com/62438467/179422202-cd698f37-c111-46cc-af2e-0068e846deeb.png">
 
 # Future Work
 Our current project provides students with a way to check their progress for the Bachelorʼs degree in Computer Science — AI track. However, there are several other tracks that we should also consider, namely, Biocomputation, Computer Engineering, Graphics, HCI, Information, Systems, Theory, and Unspecialized. Upon having completed one program sheet, creating very similar ones for the other tracks should not be too difficult. Additionally, our current program sheet has no real backend for data collection and submission. This would be another feature to implement to increase the utility of our project. A possible extension would allow students to specify which quarters during their Stanford experience they would take each course. Depending on course conflicts and scheduling, the program sheet would then provide feedback on whether or not the proposed four-year plan was feasible. In general, there are various ways to expand upon our work, a few of which we have just elaborated upon above. We are excited to see where this leads us in the future!
