@@ -20,7 +20,7 @@ Overall, it is not necessary to utilize logic programming for the implementation
 
 Although logic programming made developing our project easier, we still faced a considerable number of challenges. First and foremost, the large datasets made our coding very cumbersome. In certain situations we had to create hundreds of options for a single HTML dropdown and implement logic for each of those dropdown options. In general, the smallest of typos could sometimes cause the functionality of the worksheet to fail. We also had moderate difficulty allowing for multiple-select to satisfy electives as shown below: <br>
 <br>
-<img width="600" alt="challenges" src="https://user-images.githubusercontent.com/62438467/179422202-cd698f37-c111-46cc-af2e-0068e846deeb.png"> ![ss2](https://user-images.githubusercontent.com/62438467/179422366-b4be8878-2255-4f8f-8991-e2626397e4fb.png)
+<img width="600" alt="challenges" src="https://user-images.githubusercontent.com/62438467/179422202-cd698f37-c111-46cc-af2e-0068e846deeb.png">
 
 
 # Future Work
