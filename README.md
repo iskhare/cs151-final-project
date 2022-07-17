@@ -1,1 +1,1 @@
-# cs151-final-project
+# Stanford CS 151 Final Project
